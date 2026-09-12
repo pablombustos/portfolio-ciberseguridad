@@ -71,4 +71,4 @@ La práctica permitió aplicar controles de acceso sobre archivos y directorios 
 
 La práctica completa, incluyendo las capturas de pantalla y el procedimiento detallado, se encuentra disponible en:
 
-**[Ver documentación completa en PDF](./Proyecto-1-Permisos-Linux.pdf)**
+**[Ver documentación completa en PDF](.01-permisos-linux/PORTFOLIO EJEMPLAR DE AGREGAR Y QUITAR PERMISOS..pdf)**
