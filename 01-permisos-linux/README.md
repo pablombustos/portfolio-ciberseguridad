@@ -3,7 +3,7 @@ Descripción
 
 En este laboratorio trabajé con permisos de archivos y directorios en Linux. La práctica estuvo enfocada en revisar qué usuarios podían acceder o modificar determinados archivos y después ajustar esos permisos para evitar accesos que no fueran necesarios.
 
-Qué hice
+Qué hice:
 
 Primero revisé los archivos y directorios del sistema utilizando ls y ls -la. Esto me permitió ver los permisos asignados y también encontrar archivos ocultos, como .project_x.txt.
 
@@ -26,14 +26,19 @@ Comandos utilizados
 Los principales comandos que utilicé fueron:
 
 ls
+
 ls -la
+
 cd
+
 chmod
 
 Algunos ejemplos de modificaciones realizadas:
 
 chmod o-w project_k.txt
+
 chmod g-x drafts
+
 Conceptos aprendidos
 
 La práctica me permitió trabajar con los permisos de lectura (r), escritura (w) y ejecución (x), además de entender mejor la diferencia entre propietario, grupo y otros usuarios.
